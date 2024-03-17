@@ -400,6 +400,8 @@ h3 > a { color: inherit; }
 }
 
 .hero-title {
+  color:purple !important;
+  -webkit-text-stroke: 1px black;
   margin-bottom: 35px;
   max-width: 12ch;
 }
